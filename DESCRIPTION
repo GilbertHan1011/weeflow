@@ -1,0 +1,17 @@
+Package: weeflow
+Title: Record and Visualize Project Workflows
+Version: 0.1.0
+Authors@R: 
+    person("Your", "Name", , "your.email@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: weeflow helps record and visualize project workflows by parsing R scripts
+    and extracting input and output information. It provides functions to organize
+    workflow information and create visual representations of the project structure.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    DiagrammeR,
+    stringr,
+    dplyr
