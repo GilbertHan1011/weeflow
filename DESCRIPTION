@@ -15,3 +15,8 @@ Imports:
     DiagrammeR,
     stringr,
     dplyr
+
+Author: Gilbert Han [aut]
+Maintainer: Gilbert Han <gilberthan1011@gmail.com>
+LazyData: true
+VignetteBuilder: knitr
